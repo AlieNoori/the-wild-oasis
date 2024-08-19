@@ -5,7 +5,7 @@ A hotel management program for employees.
 Built with with React, React Query and Supabase.
 
 ## Tech stack
-- React
+- Vanilla React
 - React Query
 - Supabase
 - Styled components
@@ -13,15 +13,15 @@ Built with with React, React Query and Supabase.
 ## Installation
 
 1. First Clone the reop: 
-`git clone https://github.com/AlieNoori/the-wild-oasis.git`
+```git clone https://github.com/AlieNoori/the-wild-oasis.git```
 
 2. Navigate to the project directory:
-`cd the-wild-oasis`
+```cd the-wild-oasis```
 
 3. Install dependencies:
-`npm install`
+```npm install```
 
 4. Run dev server:
-`npm run dev`
+```npm run dev```
 
 ### You alos can visit the result on the https://the-wild-oasis-theta-peach.vercel.app/
